@@ -1,3 +1,4 @@
+#NLP
 1. Define a function "tokenize" as follows:
  * takes a string as an input
  * tokenizes the string into tokens using a <strong>customized NLTK regular expression tokenizer</strong>. A token <strong>only contains letters, "-", or "."</strong> . Moreover, in a token, <strong>"-" or "." cannot be the first character</strong>.
